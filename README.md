@@ -5,6 +5,12 @@ Puppet module for Performance Co-Pilot
 This module will install the required pcp packages and manage it's services.
 Tested on RHEL7 with Puppet 3.7.4 
 
+**Table of Contents**
+- [Usage](#usage)
+- [Parameters](#parameters)
+  - [Web Interface parameters](#web-interface-parameters)
+- [Development](#development)
+
 ## Usage
 
 ```puppet
