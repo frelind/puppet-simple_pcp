@@ -1,6 +1,6 @@
 {
   "name": "frelind-simple_pcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "frelind",
   "summary": "Installs and configures Performance Co-Pilot",
   "license": "Apache-2.0",
@@ -8,10 +8,10 @@
   "project_page": "https://github.com/frelind/puppet-simple_pcp",
   "issues_url": "https://github.com/frelind/puppet-simple_pcp/issues",
   "operatingsystem_support": [
-  {"operatingsystem": "RedHat"},
-  {"operatingsystem": "Fedora"},
-  {"operatingsystem": "CentOS"},
-  "dependencies": [
+    {"operatingsystem": "RedHat"},
+    {"operatingsystem": "Fedora"},
+    {"operatingsystem": "CentOS"}
   ],
+  "dependencies": [
+  ]
 }
-
